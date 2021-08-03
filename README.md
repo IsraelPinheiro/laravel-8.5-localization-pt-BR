@@ -4,7 +4,7 @@
 1. Download
   ```
   $ cd resources/lang/
-  $ git clone git@gitlab.com:IsraelPinheiro/laravel-8.3-localization-pt-BR.git ./pt-BR
+  $ git clone git@gitlab.com:IsraelPinheiro/laravel-8.5-localization-pt-BR.git ./pt-BR
   ```
 2. Configuração
   ```
